@@ -3,10 +3,6 @@ color: white;
 font-size: 40px;
 }
 
-h2{
-
-}
-
 body{
     font-size:28px ;
     background-color: black;
@@ -17,29 +13,23 @@ img{
     display: block;
     margin: auto;
     width: 40%;
-
 }
 
-p{ color:white;
-  
-}
+p{ color:white;}
 
 li{
-    color: white;
-}
+    color: white;}
 
 h2{
     color:white;
-    font-size: 25px;
-    
+    font-size: 25px;  
 }
  
     h3{
        color: white;
         text-align: center; 
         font-size: 45px ;
-
-        }
+    }
 
 
 
